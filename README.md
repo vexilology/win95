@@ -14,9 +14,9 @@
 ## Start
 * ./qemu --create
 * ./qemu --image (change .ISO)
-* ./qemu --internet (change .ISO, after copy from CDrom 'win95' folder to C:\)
+* ./qemu --internet (change .ISO, after copy from CDrom 'win95' folder to C:\\)
 * ./qemu --start
 
 ## Linsk
-* [`Install`]('https://www.vmware.com/support/ws3/doc/ws32_guestos10.html')
-* [`Internet connection`]('https://www.sysnettechsolutions.com/en/connect-windows-95-internet-virtualbox/')
+* [`Install`](https://www.vmware.com/support/ws3/doc/ws32_guestos10.html)
+* [`Internet connection`](https://www.sysnettechsolutions.com/en/connect-windows-95-internet-virtualbox/)
