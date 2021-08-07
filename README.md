@@ -12,9 +12,10 @@
 ```
 
 ## Start
+* add iso, line 3
 * ./qemu --create
-* ./qemu --image (change .ISO)
-* ./qemu --internet (change .ISO, after copy from CDrom 'win95' folder to C:\\)
+* ./qemu --image
+* ./qemu --internet (copy from CDrom 'win95' folder to C:\\)
 * ./qemu --start
 
 ## Linsk
