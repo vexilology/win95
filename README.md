@@ -12,11 +12,13 @@
 ```
 
 ## Start
-* add iso, line 3
-* ./qemu --create
-* ./qemu --image
-* ./qemu --internet (copy from CDrom 'win95' folder to C:\\)
-* ./qemu --start
+```
+- add iso, line 3
+- ./qemu --create
+- ./qemu --image
+- ./qemu --internet (copy from CD-Rom 'win95' folder to C:\\)
+- ./qemu --start
+```
 
 ## Links
 * [`Install`](https://www.vmware.com/support/ws3/doc/ws32_guestos10.html)
