@@ -18,6 +18,6 @@
 * ./qemu --internet (copy from CDrom 'win95' folder to C:\\)
 * ./qemu --start
 
-## Linsk
+## Links
 * [`Install`](https://www.vmware.com/support/ws3/doc/ws32_guestos10.html)
 * [`Internet connection`](https://www.sysnettechsolutions.com/en/connect-windows-95-internet-virtualbox/)
